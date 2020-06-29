@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/ssh.git]
-checkout = vcsh clone git@github.com:plasorak/ssh-conf.git mr
+checkout = vcsh clone git@github.com:plasorak/ssh-conf.git ssh
