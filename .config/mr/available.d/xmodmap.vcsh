@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/xmodmap.git]
+checkout = vcsh clone git@github.com:plasorak/xmodmap-conf.git xmodmap

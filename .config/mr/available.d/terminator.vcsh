@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/terminator.git]
+checkout = vcsh clone git@github.com:plasorak/terminatro.git terminator
